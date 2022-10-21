@@ -1,7 +1,25 @@
-Variables: A place where you can store program data. 
+VARIABLES: 
+- A place where you can store program data. 
 
 var name = "David" //Creating a variable 
 let birthYear = 2002 //Creating a constant
 
 - You can modify variables but you cannot modify constants. 
+
+MULTI-LINE STRINGS:
+
+var str1 = """
+This goes 
+over multiple
+lines
+"""
+
+// If you only want multi-line strings to format your code neatly, and you don't want those line breaks to actually be in your string, 
+//end each line with a "\"
+
+var str2 = """
+This goes \
+over multiple \
+lines
+"""
 
