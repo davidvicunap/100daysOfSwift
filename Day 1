@@ -1,0 +1,7 @@
+Variables: A place where you can store program data. 
+
+var name = "David" //Creating a variable 
+let birthYear = 2002 //Creating a constant
+
+- You can modify variables but you cannot modify constants. 
+
