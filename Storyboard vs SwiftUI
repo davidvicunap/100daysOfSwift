@@ -1,0 +1,32 @@
+  STORYBOARD: The most popular way of creating a UI 
+  
+Advantages:
+* It's easy to learn for beginners 
+* With storyboard you can create a prototype for an app in hours. Which makes it easy to visualize the app without writting to much code at an early stage
+of development. 
+* Has a wide range of Views such as Button and Text. 
+* The developer community is large so it's easy to get help whenever you hit a roadblock. 
+
+Disadvantages:
+* Source control may be intimidating since the storyboard code is in an xml type format. It may be difficult to resolve conflicts during code merging with 
+another developer. 
+* As the number of ways of screens keeps growing, managing storyboards can become chaotic as there may be too many files. 
+
+  SWIFT UI: Realased with iOS13. A toolkit released by Apple to help developer create UI in a declarative way using Swift language. 
+
+Advantages:
+* Easy to build and target multiple iOS platform apps. 
+* Offers a combination between drag and drop through Xcode as well as writing code in a Swift file. 
+* The code is basic and clean. 
+* Swift UI views can be easily reused by creating smaller module files. 
+
+Disadvantages:
+* It only supports iOS13 and Xcode 11 or higher. 
+* Relatively new so there aren't as many components options in the SwiftUI as there are in Storyboard Development Kit. This means that, to meet app 
+requirements, you must create custom views, such as a search bar. 
+* There is no seamless way of switching between Storyboard and SwiftUI. This means that developers have to continue using Storyboard for existing apps. 
+* The community is currently not that big so the support for developrs is relatively small. 
+
+
+  
+  
