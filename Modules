@@ -3,6 +3,8 @@
 
 * AVkit:
 - Provides all the necessary for manipulating media playback. 
+- AVPlayer -> An object that provides the interface to control the player's transport behavior. 
+AVPlayer(url:URL) 
 
 * AVFoundation: 
 -
